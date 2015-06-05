@@ -1,0 +1,150 @@
+
+header {
+	height: 180px;
+	width: 100%;
+	background: url("http://25.media.tumblr.com/9932d59b0575a290b069c42e96543c02/tumblr_mjiagtCcqj1r34zhyo2_1280.jpg");
+	background-repeat: no-repeat;
+	text-align: center;
+	color: #ffffff;
+	margin-top: 0;
+	margin-bottom: 5px;
+	box-shadow: 0px 2px 8px black;
+}
+header h2 {
+	position: relative;
+	top: 25%;
+	font-family: Xirod;
+	font-weight: 400;
+	font-size: 3em;
+	display: inline-block;
+	color: #bcee68;
+	text-shadow: 1px 1px 5px black;
+}
+/*-------------SECTION DETAILS ------------- SECTION DETAILS--------*/
+.container {
+	position: relative;
+	margin-bottom: 5px;
+	left: 65px;
+	height: 600px;
+	width: 89%;
+	border-radius: 3px;
+	text-align: center;
+}
+span.left {
+	float: left;
+	height: 500px;
+	width: 47%;
+	margin-top: 25px;
+	color: #58c0ff;
+	font-family: Xirod;
+	font-size: .74em;
+	line-height: 18px;
+}
+span.right {
+	float: right;
+	height: 500px;
+	width: 47%;
+	margin-top: 25px;
+	color: #58c0ff;
+	font-family: Xirod;
+	font-size: .74em;
+	line-height: 18px;
+}
+span.image {
+	float: left;
+	border: 1px solid #58c0ff;
+	border-radius: 2px;
+	margin: 10px;
+}
+section#two.container{
+	position: relative;
+	margin-bottom: 5px;
+	left: 65px;
+	height: 800px;
+	width: 89%;
+}
+
+span.heading {
+	color: #bcee68;
+	font-family: Xirod;
+	text-shadow: 1px 1px 5px black;
+
+}
+span.passage {
+	position: relative;
+	width: 45%;
+	font-family: Xirod;
+	font-size: .74em;
+	color: #58c0ff;
+	line-height: 20px;
+	margin-left: 5px;
+}
+/* ------------------- MENU      ---       MENU ----------------------*/
+ul {
+	height: 400px;
+	width: 200px;
+	display: inline-block;
+	position: fixed;
+	text-decoration: none;
+	list-style: none;
+	top: 200px;
+	left: -35px
+}
+li {
+	height: 40px;
+	width: 120px;
+	background-color: #58c0ff;
+	text-align: center;
+	border-radius: 3px;
+	border-bottom: .5px solid gray;
+	margin: 0.5px;
+	box-shadow: 1px 1px 3px black;
+}
+a {
+	position: relative;
+	top: 10px;
+	font-family: neutronium;
+	color: #bcee68;
+
+}
+li:hover {
+	box-shadow: 4px 4px 5px black;
+}
+a:hover {
+	font-size: 1em;
+	font-weight: 600;
+	text-decoration: none;
+}
+/*----------------        ---------------*/
+
+
+hr {
+	width: 50%;
+	clear: both;
+	height: 20px;
+}
+
+
+
+footer {
+	height: 40px;
+	width: 100%;
+	background: url("http://www.artofvfx.com/CYBERPUNK2077/CYBERPUNK2077_PLATIGE_05.jpg");
+	box-shadow: 2px 0px 5px black;
+	border: .5px solid #58c0ff;
+	border-radius: 3px;
+}
+span.footerone {
+	position: relative;
+	display: inline-block;
+	color: #bcee68;
+	font-family: Xirod;
+	margin: 10px
+}
+span.footertwo {
+	position: relative;
+	display: inline-block;
+	color: #bcee68;
+	font-family: Xirod;
+	left: 700px;
+}
